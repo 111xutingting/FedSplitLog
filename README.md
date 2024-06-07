@@ -1,2 +1,2 @@
-# FedSplit0723
+# FedSplitLog
 FedSplit
